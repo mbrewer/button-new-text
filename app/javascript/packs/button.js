@@ -1,1 +1,1 @@
-alert('BOO HOO HOO');
+alert('THANK YOU');
