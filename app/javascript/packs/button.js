@@ -5,5 +5,5 @@ function sayHello() {
 document.addEventListener('turbolinks:load', () => {  
   const clickButton = document.getElementById("button-click");  
 
-  clickButton.addEventListener("click", sayHello); 
+  clickButton.addEventListener("click", sayHello()); 
 });
