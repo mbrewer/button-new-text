@@ -8,7 +8,6 @@ require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
 
-import sayHello from './button'
 window.sayHello = sayHello
 
 // Uncomment to copy all static images under ../images to the output folder and reference
