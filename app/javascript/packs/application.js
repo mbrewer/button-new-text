@@ -15,5 +15,5 @@ require("channels")
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
 
-import sayHello from './button'
+// import sayHello from './button'
 window.sayHello = sayHello
